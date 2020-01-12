@@ -1,0 +1,9 @@
+C:\Users\lirdc\Desktop\GITHUBB\Amobajavitott\Amobajvaitott\obj\Debug\Amobajvaitott.csprojAssemblyReference.cache
+C:\Users\lirdc\Desktop\GITHUBB\Amobajavitott\Amobajvaitott\obj\Debug\Amobajvaitott.Form1.resources
+C:\Users\lirdc\Desktop\GITHUBB\Amobajavitott\Amobajvaitott\obj\Debug\Amobajvaitott.Properties.Resources.resources
+C:\Users\lirdc\Desktop\GITHUBB\Amobajavitott\Amobajvaitott\obj\Debug\Amobajvaitott.csproj.GenerateResource.cache
+C:\Users\lirdc\Desktop\GITHUBB\Amobajavitott\Amobajvaitott\bin\Debug\Amobajvaitott.exe.config
+C:\Users\lirdc\Desktop\GITHUBB\Amobajavitott\Amobajvaitott\bin\Debug\Amobajvaitott.exe
+C:\Users\lirdc\Desktop\GITHUBB\Amobajavitott\Amobajvaitott\bin\Debug\Amobajvaitott.pdb
+C:\Users\lirdc\Desktop\GITHUBB\Amobajavitott\Amobajvaitott\obj\Debug\Amobajvaitott.exe
+C:\Users\lirdc\Desktop\GITHUBB\Amobajavitott\Amobajvaitott\obj\Debug\Amobajvaitott.pdb
